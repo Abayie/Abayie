@@ -39,12 +39,12 @@ I feel called to serve a greater purpose in life. Thoughtful and idealistic, str
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Abayie&theme=radical)](https://github.com/Abayie/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Abayie)
+
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abayie&theme=react)
   
 
-
+![Profile views](https://gpvc.arturio.dev/Abayie)
 
 
 
