@@ -21,7 +21,7 @@ I feel called to serve a greater purpose in life. Thoughtful and idealistic, str
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20The%20more%20you%20know;The%20more%20you%20realize;you%20don't%20know&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<img align="right" alt="GIF" src="./programmer.gif" width="350" />
+<img align="right" alt="GIF" src="./programmer.png" width="350" />
 
 ## ️ Languages and tools
 
@@ -35,12 +35,15 @@ I feel called to serve a greater purpose in life. Thoughtful and idealistic, str
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
 
-  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abayie) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jonathanabayie/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JonathanBoahene)  
 
-![Profile views](https://gpvc.arturio.dev/Abayie) 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abayie&theme=react)  
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Abayie&theme=radical)](https://github.com/Abayie/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Abayie&theme=radical)](https://github.com/Abayie/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/Abayie)
+ 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abayie&theme=react)
+  
+
 
 
 
