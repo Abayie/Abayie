@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemRahimi&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abayie&layout=compact)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FatemRahimi&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abayie&show_icons=true)
 
 
