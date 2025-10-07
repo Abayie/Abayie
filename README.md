@@ -1,6 +1,6 @@
 ## Hi there 👋 
--I'm @Abayie
--I'm a Full Stack Developer
+- I'm @Abayie
+- I'm a Full Stack Developer
 
 <!--
 **Abayie/Abayie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
